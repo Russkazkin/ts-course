@@ -1,1 +1,1 @@
-console.log('Let\'s learn functions!');
+console.log('Let\'s learn more types!');
