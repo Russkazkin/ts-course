@@ -14,3 +14,4 @@ addAndHandle(30, 20, printResult);
 var addValues;
 addValues = add;
 console.log(addValues(67, 45));
+console.log('updated');

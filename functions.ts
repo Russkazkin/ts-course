@@ -18,3 +18,4 @@ addAndHandle(30, 20, printResult);
 let addValues: (a: number, b: number) => number;
 addValues = add;
 console.log(addValues(67, 45));
+console.log('updated');
