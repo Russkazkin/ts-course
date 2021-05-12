@@ -1,3 +1,4 @@
+"use strict";
 function combine(input1, input2, resultType) {
     if ((typeof input1 === 'number' && typeof input2 === 'number') || resultType === "as-number") {
         return +input1 + +input2;

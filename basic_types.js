@@ -1,3 +1,4 @@
+"use strict";
 var Status;
 (function (Status) {
     Status[Status["ACTIVE"] = 0] = "ACTIVE";
