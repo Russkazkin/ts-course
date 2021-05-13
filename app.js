@@ -1,7 +1,6 @@
 "use strict";
 var userInput;
 var userName;
-userInput = 5;
 userInput = 'Ruslan';
 if (typeof userInput === 'string') {
     userName = userInput;
