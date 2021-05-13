@@ -16,3 +16,4 @@ var addValues;
 addValues = addNumbers;
 console.log(addValues(67, 45));
 console.log('updated');
+//# sourceMappingURL=functions.js.map

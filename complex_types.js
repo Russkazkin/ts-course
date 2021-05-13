@@ -9,3 +9,4 @@ var sum = combine(1, 5, "as-number");
 var stringSum = combine('56', '57', "as-number");
 var combinedNames = combine('Ruslan', 'Skazkin', "as-text");
 console.log(combinedNames, sum, stringSum);
+//# sourceMappingURL=complex_types.js.map
