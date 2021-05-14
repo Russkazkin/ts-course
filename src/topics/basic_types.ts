@@ -17,3 +17,6 @@ const person: {
 for (const hobby of person.hobbies) {
   console.log(hobby.toUpperCase());
 }
+
+const newLine: string = 'test';
+console.log(newLine);
